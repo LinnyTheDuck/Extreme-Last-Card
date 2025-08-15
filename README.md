@@ -67,14 +67,14 @@ Each card has it's own special abilities depending on the mode that the game is 
 
 | Card     | Normal Mode      | Fight Mode  |
 | ------------- | ------------- | ------------- |
-| Ace/Joker | Change the suit to whichever the player chooses | |
+| Ace/Joker | Change the suit to whichever the player chooses. | |
 | 2 | Fight Mode is activated, continue to Fight Mode ability | The next player has to pick up two cards for their turn. This can be blocked or redirected. |
 | 3 | | The effects of the attack are blocked. Can only be unblocked by a 6. |
-| 4 | After placing this card the next player gets to play a card of their choice | |
+| 4 | After placing this card the next player gets to play a card of their choice. | |
 | 5 | Fight Mode is activated, continue to Fight Mode ability | The next player has to pick up five cards for their turn. This can be blocked or redirected. |
 | 6 | | Place this undo card on a 3 or 7 to undo the effects of the shield and force the next player to continue attack mode. |
 | 7 | | The effects of the attack are blocked. Can only be unblocked by a 6. |
-| 8 | A player of of your choosing has to take a random card from your hand. | |
+| 8 | A player of your choosing has to take a random card from your hand. | |
 | 9 | | You pass the attack to the player after you. |
 | 10 | The player after you misses a turn. | |
 | Jack/11 | The rotation/player order reverses. | |
