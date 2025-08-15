@@ -79,4 +79,4 @@ Each card has it's own special abilities depending on the mode that the game is 
 | 10 | The player after you misses a turn. | |
 | Jack/11 | The rotation/player order reverses. | |
 | Queen/12 | | The attack direction reverses. |
-| King/13 | The player after you has to do the chicken dance before their turn. They lose their dignity. | |
+| King/13 | The player after you has to do the chicken dance before their turn. This does not affect actual gameplay, but the player loses their dignity. | |
