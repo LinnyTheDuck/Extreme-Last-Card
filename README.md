@@ -57,7 +57,7 @@ More 2's and 5's can be placed after 6's and/or 9's, increasing the total amount
 
 `5 -> 7 -> 6 -> 2` OR `5 -> 9 -> 5`
 
-#### Fight mode only ends on either of two comditions:
+#### Fight mode only ends on either of two conditions:
 1) A player cannot defend an attack OR redirect the attack, and they *MUST* pick up the number of cards from the attack total.
 2) A player blocks an attack, and the player after is unable to reverse this block. 
 
