@@ -17,13 +17,13 @@ The game *ALWAYS* starts in normal mode. To get rid of your cards you have to pl
 #### Winning a Game
 The game can *ONLY* be won in normal mode. 
 
-To win using one card:
+**To win using one card:**
 If you have one card left in your hand - you must say "Last Card". Otherwise on your next turn you cannot play that card and *must* draw an additional card from the deck. If on or before your next turn you are able to play or get rid of this card, you win the game.
 
-To win using multiple cards:
+**To win using multiple cards:**
 If you plan to place multiple cards on your final turn, you do not need to declare "Last Card". However these cards *MUST* adhere to the matching cards conditions for placing stacks.
 
-You cannot win on the following cards:
+**You cannot win on the following cards:**
 - Ace/1
 - 2/5 - as this begins fight mode, see the paragraph below
 
