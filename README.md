@@ -27,7 +27,7 @@ If you plan to place multiple cards on your final turn, you do not need to decla
 - Ace/1
 - 2/5 - as this begins fight mode, see the paragraph below
 
-If you place your final card during fight mode OR you place an attack card to start fight mode, you are still in the game *UNTIL* fight mode ends. However, you win by default if fight mode ends and you still have no cards in your hand. If multiple people have empty hands at the end of fight mode, they enter the **THUNDERDOME**. In the **THUNDERDOME** participants duel to the death by drawing a random card from the deck, and compare to see who has the higher number - the higher number being a winner. If both/multiple players draw the highest card then they will have to rematch and draw another card until a winner is determined.
+If you place your final card during fight mode OR you place an attack card to start fight mode, you are still in the game *UNTIL* fight mode ends. However, you win by default if fight mode ends and you still have no cards in your hand. If multiple people have empty hands at the end of fight mode, they enter the **THUNDERDOME**. In the **THUNDERDOME** participants duel to the death by drawing a random card from the deck, and compare to see who has the higher number - the higher number being the winner. If both/multiple players draw the highest card then they will have to rematch and draw another card until a winner is determined.
 
 #### What are Matching Cards?
 
