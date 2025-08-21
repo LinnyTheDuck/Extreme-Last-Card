@@ -14,15 +14,30 @@ There are two modes to the game - *Normal Mode* and *Fight Mode*.
 ### In Normal Mode
 The game *ALWAYS* starts in normal mode. To get rid of your cards you have to place matching cards ontop of the middle card. If you cannot place a card, you must pick up an extra card from the remainder of the deck. The players play clockwise from the dealer. <br> 
 
-If you have one card left in your hand - you must say "Last Card". Otherwise on your next turn you cannot play that card and *must* draw an additional card from the deck. However this can be circumvented if you plan to place multiple cards on your final turn.
+#### Winning a Game
+The game can *ONLY* be won in normal mode. 
+
+To win using one card:
+If you have one card left in your hand - you must say "Last Card". Otherwise on your next turn you cannot play that card and *must* draw an additional card from the deck. If on or before your next turn you are able to play or get rid of this card, you win the game.
+
+To win using multiple cards:
+If you plan to place multiple cards on your final turn, you do not need to declare "Last Card". However these cards *MUST* adhere to the matching cards conditions for placing stacks.
+
+You cannot win on the following cards:
+- Ace/1
+- 2/5 - as this begins fight mode, see the paragraph below
+
+If you place your final card during fight mode OR you place an attack card to start fight mode, you are still in the game *UNTIL* fight mode ends. However, you win by default if fight mode ends and you still have no cards in your hand. If multiple people have empty hands at the end of fight mode, they enter the **THUNDERDOME**. In the **THUNDERDOME** participants duel to the death by drawing a random card from the deck, and compare to see who has the higher number - the higher number being a winner. If both/multiple players draw the highest card then they will have to rematch and draw another card until a winner is determined.
 
 #### What are Matching Cards?
 
 - Same Number: If the middle card is a `3 of hearts` you can put any card ontop that has the numeric value of `3`
 - Same Suit: If the middle card is a `5 of spades` you can put any card ontop that has the suit value of `spades`
 - Stacking the Same Number: If the middle card is a `7 of diamonds` and you have the `7 of clubs` and the `7 of spades` you can put both cards down at the same time, the order is up to you
-- Ascending/Descending Stacks: If the middle card is a `6 of clubs` and you have the `7 of clubs`, `8 of clubs` and `9 of clubs` you can put all the cards down in ascending order but they all <i>must</i> be of the same suit. You can also double up the middle card numeric value, for example on the `6 of clubs` you can put the `6 of hearts` and `7 of hearts` down in ascending order.
+- Ascending/Descending Stacks: If the middle card is a `6 of clubs` and you have the `7 of clubs`, `8 of clubs` and `9 of clubs` you can put all the cards down in ascending order but they all <i>must</i> be of the same suit. 
 - Jokers and Aces: You can put these on top of any middle card, however you cannot end the game on said card - you <i>must</i> pick up another one from the deck
+
+When placing stacks, only the top card will have an effect, all cards underneath will be benign. For example, if you play `4 of clubs + 5 of clubs + 6 of clubs` the 4 and 5 act as benign cards, however if you play `3 of clubs + 4 of clubs + 5 of clubs` *only* the top card - in this case the 5 will have an effect and thus start fight mode.
 
 ### In Fight Mode
 
