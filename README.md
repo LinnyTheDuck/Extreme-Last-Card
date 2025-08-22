@@ -1,9 +1,9 @@
-# Last Chicken
+# Ultimate Chicken
 
 A game I made when I was 12, now updated and improved!
 
 ## Game Objective
-Get rid of your cards. ASAP. (just like regular last card)
+Get rid of your cards. ASAP. (a bit like regular last card)
 
 ## Game Rules
 
@@ -12,7 +12,7 @@ Each player is given the same amount of random cards in their hand, this can be 
 There are two modes to the game - *Normal Mode* and *Fight Mode*.
 
 ### In Normal Mode
-The game *ALWAYS* starts in normal mode. To get rid of your cards you have to place matching cards ontop of the middle card. If you cannot place a card, you must pick up an extra card from the remainder of the deck. The players play clockwise from the dealer. <br> 
+The game *ALWAYS* starts in normal mode. To get rid of your cards you have to place matching cards ontop of the middle card. If you cannot place a card, you must pick up an extra card from the remainder of the deck as your turn. The players play clockwise from the dealer. 
 
 #### Winning a Game
 The game can *ONLY* be won in normal mode. 
@@ -21,13 +21,13 @@ The game can *ONLY* be won in normal mode.
 If you have one card left in your hand - you must say "Last Chicken". Otherwise on your next turn you cannot play that card and *must* draw an additional card from the deck. If on or before your next turn you are able to play or get rid of this card, you win the game.
 
 **To win using multiple cards:**
-If you plan to place multiple cards on your final turn, you do not need to declare "Last Card". However these cards *MUST* adhere to the matching cards conditions for placing stacks.
+If you plan to place multiple cards on your final turn, you do not need to declare "Last Chicken". However these cards *MUST* adhere to the matching cards conditions for placing stacks.
 
 **You cannot win on the following cards:**
 - Ace/1
 - 2/5 - as this begins fight mode, see the paragraph below
 
-If you place your final card during fight mode OR you place an attack card to start fight mode, you are still in the game *UNTIL* fight mode ends. However, you win by default if fight mode ends and you still have no cards in your hand. If multiple people have empty hands at the end of fight mode, they enter the **THUNDERDOME**. In the **THUNDERDOME** participants duel to the death by drawing a random card from the deck, and compare to see who has the higher number - the higher number being the winner. If both/multiple players draw the highest card then they will have to rematch and draw another card until a winner is determined.
+If you place your final card during fight mode OR you place an attack card to start fight mode, you are still in the game *UNTIL* fight mode ends. However, you win by default if fight mode ends and you still have no cards in your hand. If multiple people have empty hands at the end of fight mode, they enter the **THUNDERDOME**. In the **THUNDERDOME** participants duel to the death by drawing a random card from the deck, and compare to see who has the higher number - the higher number being the winner. If both/multiple players draw the highest card then they will have to rematch and draw another card each until a winner is determined.
 
 #### What are Matching Cards?
 
@@ -39,7 +39,7 @@ If you place your final card during fight mode OR you place an attack card to st
 
 When placing stacks, only the top card will have an effect, all cards underneath will be benign. For example, if you play `4 of clubs + 5 of clubs + 6 of clubs` the 4 and 5 act as benign cards, however if you play `3 of clubs + 4 of clubs + 5 of clubs` *only* the top card - in this case the 5 will have an effect and thus start fight mode.
 
-There is an exception where you can stack multiple 10's and J's/11's where the affect applies more than once.
+**The only exception to this is:** you can stack multiple 10's and J's/11's where the effect applies more than once ie. placing two 10's means that the next two players turns are skipped.
 
 ### In Fight Mode
 
@@ -84,7 +84,7 @@ Each card has it's own special abilities depending on the mode that the game is 
 
 | Card     | Normal Mode      | Fight Mode  |
 | ------------- | ------------- | ------------- |
-| Ace/Joker | Change the suit to whichever the player chooses. | |
+| Ace/1/Joker | Change the suit to whichever the player chooses. | |
 | 2 | Fight Mode is activated, continue to Fight Mode ability | The next player has to pick up two cards for their turn. This can be blocked or redirected. |
 | 3 | | The effects of the attack are blocked. Can only be unblocked by a 6. |
 | 4 | After placing this card the next player gets to play a card of their choice. | |
