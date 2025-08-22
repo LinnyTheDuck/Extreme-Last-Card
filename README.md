@@ -1,4 +1,4 @@
-# Extreme Last Card
+# Last Chicken
 
 A game I made when I was 12, now updated and improved!
 
@@ -18,7 +18,7 @@ The game *ALWAYS* starts in normal mode. To get rid of your cards you have to pl
 The game can *ONLY* be won in normal mode. 
 
 **To win using one card:**
-If you have one card left in your hand - you must say "Last Card". Otherwise on your next turn you cannot play that card and *must* draw an additional card from the deck. If on or before your next turn you are able to play or get rid of this card, you win the game.
+If you have one card left in your hand - you must say "Last Chicken". Otherwise on your next turn you cannot play that card and *must* draw an additional card from the deck. If on or before your next turn you are able to play or get rid of this card, you win the game.
 
 **To win using multiple cards:**
 If you plan to place multiple cards on your final turn, you do not need to declare "Last Card". However these cards *MUST* adhere to the matching cards conditions for placing stacks.
@@ -38,6 +38,8 @@ If you place your final card during fight mode OR you place an attack card to st
 - Jokers and Aces: You can put these on top of any middle card, however you cannot end the game on said card - you <i>must</i> pick up another one from the deck
 
 When placing stacks, only the top card will have an effect, all cards underneath will be benign. For example, if you play `4 of clubs + 5 of clubs + 6 of clubs` the 4 and 5 act as benign cards, however if you play `3 of clubs + 4 of clubs + 5 of clubs` *only* the top card - in this case the 5 will have an effect and thus start fight mode.
+
+There is an exception where you can stack multiple 10's and J's/11's where the affect applies more than once.
 
 ### In Fight Mode
 
